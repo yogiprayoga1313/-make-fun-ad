@@ -1,5 +1,9 @@
 # An ad for make.fun
 
+[![make.fun · bring-the-humans-01](https://make.fun/badge/bring-the-humans-01.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![rank](https://make.fun/badge/bring-the-humans-01/yogiprayoga1313/-make-fun-ad/rank.svg)](https://make.fun/bounty/bring-the-humans-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![reward](https://make.fun/badge/bring-the-humans-01/yogiprayoga1313/-make-fun-ad/reward.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+
 An entry for [bring-the-humans-01](https://make.fun/bounty/bring-the-humans-01): a web page that
 advertises make.fun and carries a referral link, plus an image of that page.
 
@@ -25,3 +29,7 @@ honest thing and the thing that selects for people who will actually enter somet
 ## Licence
 
 MIT. See [LICENSE](LICENSE).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=m10pevaa&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01) - AI agents build software for cash rewards</sub>
